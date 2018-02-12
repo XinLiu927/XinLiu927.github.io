@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to XinLiu blog
 
 You can use the [editor on GitHub](https://github.com/XinLiu927/XinLiu927.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 

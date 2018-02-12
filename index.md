@@ -1,37 +1,67 @@
 ## Welcome to XinLiu blog
 
-You can use the [editor on GitHub](https://github.com/XinLiu927/XinLiu927.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+概况：6年工作经验 | 男 | 26岁(1990年5月16日 ) | 未婚 | 178cm | 党员
+电话：13800138000 E-mail： xxxx@163.com 地址：深圳南山
+公司：深圳xxx科技有限公司 行业：电子商务 职位：Java高级工程师
+学校：xx大学 学历：本科 专业：摄影，动画
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 自我评价
+6年Java工作经验，3年团队管理经验，项目管理经验丰富。熟练掌握 PHP 编程语言及 OOP 思想。在xxx任职期先后主要负责的项目有效果图、问答、学装修、新闻中心、商城、图满意、设计师报价系统、oa考试系统等十几个系统，由YII从零搭建。多个项目server端采用Java服务。
+熟悉 Yii.thinkphp.ci 开源框架的配置方法及使用，YII实战经验三年，了解原理，能写组件，能扩展gii代码生成工具，基本CURD完全自动化生成，显著提高工作效率；
+熟悉网站开发中常见功能的开发：js前端验证技术、面向对象技术，无限极分类， Session cookie技术，正则表达式技术，面包屑导航，ajax无刷新技术，jquery技术，
+smarty模板技术，mvc开发模式等；
+熟练掌握SQL语言，熟练运用Mysql关系型数据库以及各种客户端工具；熟悉LINUX基本命令及Apache服务器相关配置，lamp环境搭建；掌握并能应用nosql产品，如memcached、readis、mongodb。
+##求职意向
 
-### Markdown
+到岗时间：一个月内 工作性质：全职
+期望行业： 移动互联网/电子商务 目标地点：深圳
+期望薪资：月薪 20000-24999
+目标职能：高级PHP工程师、项目经理
+求职状态：观望有好的机会再考虑。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 工作经验
+2013-10 至今：深圳xxx科技有限公司 1000-5000人 3年1个月 职位: PHP高级工程师 部门：技术中心 行业：互联网/电子商务
 
-```markdown
-Syntax highlighted code block
+跟产品经理确认需求，按计划完成多个设计与开发；
+承担xxx图库及问答两大模块的所有代码开发及维护工作；
+带领web组同事，指导技术实现、代码审核。并顺利完成多个项目；
+基于 MySQL＋PHP 进行Web产品的设计和开发； 参与完成系统架构设计、数据库结构设计、业务逻辑抽象等编码工作；
+配合Java服务组，接入Java服务。
+2013-01 -- 2013-10：xxx健康科技有限公司 <=50人 9个月 职位: PHP工程师 部门：产品研发部 行业：互联网/电子商务
 
-# Header 1
-## Header 2
-### Header 3
+开发公司网站新功能；
+网站邮件及消息管理功能开发；网站用户注册及数据入口验证
+优化网站性能，维护网站bug；数据库维护与备份。
+2011-01 -- 2012-10：xxx互联科技有限公司 50-150人 1年9个月 职位: php程序员 部门：技术部门 行业：互联网/电子商务
 
-- Bulleted
-- List
+经理的得力助手，帮助他完成一些工作，比如服务器维护，客户网站定时检查和备份；
+开发公司项目，收集客户需求，并分配到相应人手中实践；
+检验工作成果是否符合要求，并技术实践分析；
+指导同事完成项目，探讨新的高效方式去开发网站；
+核心代码整理，提高程序的复用性。
 
-1. Numbered
-2. List
+## 项目经验
 
-**Bold** and _Italic_ and `Code` text
+2015-04 至今 xxx商城
 
-[Link](url) and ![Image](src)
-```
+软件环境：lnmp
+项目描述：xxx商城是2015年上线的以家具建材为主的商城。终端包含pc、h5、app。第一版从设计到开发历时仅一个半月，sku 4000+。 全站使用 yii 框架，前端采用 sea.js，server端采用Java服务进行订单结算和库存管理。 在此项目中担任开发项目经理并参与主体功能开发， 商城所完成的主要功能如下：
+购物车功能。无登录与登录后，能同步购物车商品；
+物流，快递模块。根据不同区域，不同价格策略做设置；
+满包邮，满减，满赠送活动功能；专题，秒杀活动管理； sku上下架。及物品快照功能；
+用户收货地址管理。
+2013-03 至今 xxx装修网
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## 软件环境：lamp
+项目描述：xxx效果图和xxx网站的问答 开发、优化升级:
+效果图多格式、多规格优化处理，多屏适配；图片的重复检查，水印处理。图片质量压缩及feed文件生成。
+xxx业务发展迅猛，网站访问飙升（当前日均300W uv），通过redis，memcache缓存；服务器压力降低50%，访问流畅性、服务器稳定性极大提高；
+优化前端代码，实现低耦合，高可用。
+xxx网站的问答开发、优化升级
 
-### Jekyll Themes
+问答的交互代码，回答问题加积分；
+问答的管理，及问题批量处理功能；
+安全过滤，防止敏感关键词被发布。
+责任描述:
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/XinLiu927/XinLiu927.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
